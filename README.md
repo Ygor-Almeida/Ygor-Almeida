@@ -1,5 +1,9 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34495E&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=35&center=true&vCenter=true&width=1000&lines=Ygor+de+Almeida;Estudante+de+Cibersegurança;E+Ciência+de+Dados)](htt ps://git.io/typing-svg)
+
+### Habilidades: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=34495E)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=34495E)&nbsp;
 <!--
 **Ygor-Almeida/Ygor-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
